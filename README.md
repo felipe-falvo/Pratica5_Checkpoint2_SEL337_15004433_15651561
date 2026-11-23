@@ -143,6 +143,8 @@ WantedBy=multi-user.target
 
 Conexão de um LED com resistor ao pino correspondente à GPIO 18 e GND na protoboard.
 
+![Montagem Prática do Circuito no Laboratório](montagem_circuito_raspberry.jpg)
+
 ### 5.2. Criação dos códigos em python
 
 ```bash
