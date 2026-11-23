@@ -1,3 +1,9 @@
+commit ad9237effefbaa44ea7474555f293025a596e7d0
+Author: Felipe Falvo <felipe.falvo@usp.br>
+Date:   Mon Nov 23 12:14:19 2026 -0300
+
+    atualizando README e foto
+
 commit 9dbe545a98f4cc25ecb9c6cb2cadc7d7d08eae84
 Author: Felipe Falvo <felipe.falvo@usp.br>
 Date:   Mon Nov 23 12:12:20 2026 -0300
