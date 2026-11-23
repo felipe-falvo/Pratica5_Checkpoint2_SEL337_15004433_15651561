@@ -1,0 +1,29 @@
+commit 054d7698219d492e28dcb7ed6ed0ee206eb84f51
+Author: Felipe Falvo <felipe.falvo@usp.br>
+Date:   Mon Nov 23 11:58:34 2026 -0300
+
+    docs: atualiza documentação completa no README.md
+
+commit 3c65e07b3dd1e950c567a5d29ae7b37c2cc776bd
+Author: Felipe Falvo <felipe.falvo@usp.br>
+Date:   Tue Nov 10 19:57:17 2026 -0300
+
+    Update README.md
+
+commit 26818b78e502d9967e450a0feb7ed403077ae0ef
+Author: Felipe Falvo <felipe.falvo@usp.br>
+Date:   Tue Nov 10 19:56:04 2026 -0300
+
+    Update README.md
+
+commit 4aca84c0c21ddae618c85d78178df69ff280e76b
+Author: Felipe Falvo <felipe.falvo@usp.br>
+Date:   Tue Nov 10 18:47:25 2026 -0300
+
+    Add files via upload
+
+commit 7b09983a9f8e0b102e492eabd9adaf3886fb9e1c
+Author: Felipe Falvo <felipe.falvo@usp.br>
+Date:   Tue Nov 10 18:05:42 2026 -0300
+
+    Initial commit
