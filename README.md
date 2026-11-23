@@ -176,6 +176,10 @@ sudo systemctl enable blink_check1.service
 sudo reboot
 ```
 
+### 5.6 Readme
+
+![Edição do README no nano na Raspberry Pi](montagem_nano_raspberry.jpeg)
+
 ---
 
 ## 6. Resultados e Validação
