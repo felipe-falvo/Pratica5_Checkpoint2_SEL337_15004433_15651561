@@ -1,3 +1,15 @@
+commit 9dbe545a98f4cc25ecb9c6cb2cadc7d7d08eae84
+Author: Felipe Falvo <felipe.falvo@usp.br>
+Date:   Mon Nov 23 12:12:20 2026 -0300
+
+    atualizando README e foto escrevendo readme
+
+commit ba0b6f50068c5fb9231ec33af8a15b93706e7d07
+Author: Felipe Falvo <felipe.falvo@usp.br>
+Date:   Mon Nov 23 11:58:34 2026 -0300
+
+    docs: gera e adiciona historico_git.txt com o log dos commits
+
 commit 054d7698219d492e28dcb7ed6ed0ee206eb84f51
 Author: Felipe Falvo <felipe.falvo@usp.br>
 Date:   Mon Nov 23 11:58:34 2026 -0300
