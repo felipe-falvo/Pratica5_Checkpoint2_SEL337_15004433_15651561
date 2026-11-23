@@ -1,3 +1,15 @@
+commit 3b39c2ebda20f44b12f8d021b411f8dafb3d48cd
+Author: Felipe Falvo <felipe.falvo@usp.br>
+Date:   Mon Nov 23 12:35:34 2026 -0300
+
+    adicionando foto da montagem do circuito
+
+commit a02a23ae851ab36a0bc97a2b6d75beb7163473a2
+Author: Felipe Falvo <felipe.falvo@usp.br>
+Date:   Mon Nov 23 12:14:19 2026 -0300
+
+    adicionando historico atualizado
+
 commit ad9237effefbaa44ea7474555f293025a596e7d0
 Author: Felipe Falvo <felipe.falvo@usp.br>
 Date:   Mon Nov 23 12:14:19 2026 -0300
